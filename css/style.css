@@ -12,7 +12,7 @@
 .main-header{
     min-height: 100vh;
     width: 100%;
-    background-image: url(/image/home-main-banner.webp);
+    background-image: url(../image/home-main-banner.webp);
     background-position: center;
     background-size: cover;
     position: relative;
